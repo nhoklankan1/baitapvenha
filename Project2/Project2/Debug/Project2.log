@@ -1,0 +1,8 @@
+﻿  giaipt.c
+C:\Users\ASUS\Desktop\c\Project2\Project2\giaipt.c(16,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\c\Project2\Project2\giaipt.c(17,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main1.c
+C:\Users\ASUS\Desktop\c\Project2\Project2\main1.c(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\c\Project2\Project2\main1.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\c\Project2\Project2\main1.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
