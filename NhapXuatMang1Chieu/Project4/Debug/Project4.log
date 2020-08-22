@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\ASUS\Desktop\c\Project4\Project4\main.c(11,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+C:\Users\ASUS\Desktop\c\Project4\Project4\main.c(11,9): message : consider using '%hhd' in the format string
+  Project4.vcxproj -> C:\Users\ASUS\Desktop\c\Project4\Debug\Project4.exe

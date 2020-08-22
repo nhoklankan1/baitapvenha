@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\ASUS\Desktop\c\Bai4\Bai4\main.c(14): warning C4715: 'UCLN': not all control paths return a value
+C:\Users\ASUS\Desktop\c\Bai4\Bai4\main.c(27): warning C4715: 'BCNN1': not all control paths return a value
+  Bai4.vcxproj -> C:\Users\ASUS\Desktop\c\Bai4\Debug\Bai4.exe

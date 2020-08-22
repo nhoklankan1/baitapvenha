@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ASUS\Desktop\c\Bai6\Bai6\main.c(8,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai6.vcxproj -> C:\Users\ASUS\Desktop\c\Bai6\Debug\Bai6.exe
