@@ -40,9 +40,10 @@ void main()
 	printf("Nhap so luong phan tu n = ");
 	scanf("%d", &n);
 	nhapmang(a, n);
+	printf("Xuat cac phan tu trong mang: \n");
 	xuatmang(a, n);
 	sapxeptangdan(a, n);
-	printf
+	printf("Thu tu mang sau khi sap xep la: \n");
 	xuatmang(a, n);
 	/*for (int *i = &arr[0]; i <= &arr[n-1]; i++)
 	{

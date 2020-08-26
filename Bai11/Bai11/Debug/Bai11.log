@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\ASUS\Desktop\c\Bai11\Bai11\main.c(11,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+C:\Users\ASUS\Desktop\c\Bai11\Bai11\main.c(11,9): message : consider using '%hhd' in the format string
+  Bai11.vcxproj -> C:\Users\ASUS\Desktop\c\Bai11\Debug\Bai11.exe
